@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new Text
+=======
+ this is the first line of my text1 file , thank you for reading
+ this new line from the new-branch .
+>>>>>>> new-branch
